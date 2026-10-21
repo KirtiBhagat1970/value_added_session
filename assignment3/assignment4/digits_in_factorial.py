@@ -16,3 +16,4 @@ def digitsInFactorial(n: int) -> int:
     print (count)
 
 digitsInFactorial(5)
+
